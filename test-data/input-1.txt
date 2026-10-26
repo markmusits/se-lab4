@@ -1,0 +1,3 @@
+# Az elso SINGLE loves az elsodleges tarolobol tortenik
+GT4500,1,0,1,1     # a masodlagos tarolo mindig meghibasodik
+TORPEDO,SINGLE     # ha sikeres, akkor csak az elsodlegesbol lohetett

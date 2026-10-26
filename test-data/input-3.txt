@@ -1,0 +1,5 @@
+# Ha a soron kovetkezo (masodlagos) tarolo ures, az elsodlegesbol lo
+GT4500,2,0,0,0
+TORPEDO,SINGLE     # elsodleges
+TORPEDO,SINGLE     # masodlagos ures -> ujra elsodleges
+TORPEDO,SINGLE     # mindketto ures -> FAIL

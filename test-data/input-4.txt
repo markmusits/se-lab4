@@ -1,0 +1,5 @@
+# Ha az elsodleges ures, a masodlagosbol lo (mar az elso lovesnel is)
+GT4500,0,0,2,0
+TORPEDO,SINGLE     # elsodleges ures -> masodlagos
+TORPEDO,SINGLE     # elsodleges meg mindig ures -> masodlagos
+TORPEDO,SINGLE     # mindketto ures -> FAIL

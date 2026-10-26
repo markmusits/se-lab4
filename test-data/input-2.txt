@@ -1,0 +1,5 @@
+# SINGLE modban a tarolok felvaltva tuzelnek
+GT4500,10,0,10,1   # elsodleges mindig jo, masodlagos mindig hibas
+TORPEDO,SINGLE     # elsodleges -> SUCCESS
+TORPEDO,SINGLE     # masodlagos jon -> FAIL
+TORPEDO,SINGLE     # ujra az elsodleges -> SUCCESS
