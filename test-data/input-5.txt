@@ -1,0 +1,3 @@
+# Ha a kilott tarolo hibat jelez, a hajo nem probalja a masikat
+GT4500,10,1,10,0   # elsodleges mindig hibas, masodlagos mindig jo
+TORPEDO,SINGLE     # elsodleges hibas -> FAIL (nem lo a masodlagosbol)

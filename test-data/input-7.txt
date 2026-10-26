@@ -1,0 +1,4 @@
+# ALL modban mindket tarolo tuzel
+GT4500,1,0,1,0
+TORPEDO,ALL        # mindketto lo -> SUCCESS
+TORPEDO,SINGLE     # ha mindketto lott, mar mindketto ures -> FAIL

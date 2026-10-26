@@ -1,0 +1,3 @@
+# ALL modban az egyik tarolo hibas, a masik sikeres -> sikeres
+GT4500,10,1,10,0
+TORPEDO,ALL
